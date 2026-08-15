@@ -1,25 +1,27 @@
-# System Domowej Produkcji Żywności Nova (SDŻN)
+# System Domowej Produkcji Żywności Nova + System Autarkiczny Dom
 
 **Modularny • Zautomatyzowany • Off-gridowy • Permakulturowy • Ekologiczny**
 
-Dokumentacja systemu całorocznej, domowej produkcji żywności na własne potrzeby (w domu i przed domem).
+## Dokumenty
 
-## Główny dokument
+1. **[System_Domowej_Produkcji_Zywnosci_Nova.md](System_Domowej_Produkcji_Zywnosci_Nova.md)** – podstawowy system produkcji żywności (SDŻN)
 
-→ [**System_Domowej_Produkcji_Zywnosci_Nova.md**](System_Domowej_Produkcji_Zywnosci_Nova.md)
-
-Zawiera:
-- filozofię i realistyczne cele
-- rekomendowaną kolejność startu
-- opisy wszystkich modułów (permakultura, szklarnia pasywna, aquaponics, energia, woda)
-- wyliczenia orientacyjne
-- instrukcje etapowe
-- zalecenia i typowe pułapki
+2. **[System_Autarkiczny_Dom_Nova_Pelny.md](System_Autarkiczny_Dom_Nova_Pelny.md)** – pełna wersja obejmująca:
+   - SDŻN
+   - oranżerię
+   - przebudowę systemu grzewczo-chłodzącego
+   - modernizację oczyszczalni ścieków
+   - fotowoltaikę + magazyn energii
+   - mini centrum danych (lokalne LLM)
+   - opcjonalną biogazownię
+   - analizę opłacalności kredytu
+   - plan etapowy
+   - innowacje i optymalizacje
 
 ## O projekcie
 
 System zaprojektowany z myślą o klimacie środkowej Polski.  
-Priorytet: ciekawość, zamknięte obiegi, modularność i jak najniższa obsługa po ustabilizowaniu.
+Priorytet: ciekawość, realizm, zamknięte obiegi, modularność i odporność.
 
 ---
 
