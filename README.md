@@ -13,11 +13,14 @@
 3. **[System_Synergiczny_Dom_Nova.md](System_Synergiczny_Dom_Nova.md)** ← aktualna rekomendowana wersja  
    Projekt całości oparty na maksymalnej synergii, dual-use, redukcji i nietypowych połączeniach
 
+4. **[Analiza_Reuzywania_DIY_Nova.md](Analiza_Reuzywania_DIY_Nova.md)**  
+   Analiza opłacalności używanych komponentów, rzeczy za darmo, ze śmietnika/złomu, upcyclingu oraz DIY vs profesjonalne
+
 ## O projekcie
 
 System projektowany z myślą o klimacie środkowej Polski.  
-Priorytet: ciekawość, realizm, zamknięte obiegi, wzajemne wzmacnianie elementów i testowanie nowych rozwiązań.
+Priorytet: ciekawość, realizm, zamknięte obiegi, wzajemne wzmacnianie elementów, testowanie nowych rozwiązań i maksymalne wykorzystanie tego, co już istnieje.
 
 ---
 
-*Nova – szukaj połączeń, redukuj to, co nie wzmacnia, testuj to, czego jeszcze nie ma.*
+*Nova – najpierw to, co już istnieje. Potem dopiero nowe.*
